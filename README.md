@@ -1,1 +1,1 @@
-#### SyscallTrace: a tool for tracing system calls
+#### SyscallTrace: a tool for tracing and obfuscating system calls
